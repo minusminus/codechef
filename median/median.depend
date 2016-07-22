@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440510883 source:d:\projects\codechef\median\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<bitset>
+

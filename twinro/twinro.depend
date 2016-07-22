@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447414310 source:d:\projects\codechef\twinro\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<ctime>
+

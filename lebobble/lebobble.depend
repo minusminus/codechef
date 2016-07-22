@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439560282 source:d:\projects\codechef\lebobble\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

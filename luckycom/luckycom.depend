@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1445865295 source:d:\projects\codechef\luckycom\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+	<algorithm>
+	<cmath>
+	<fstream>
+	<ctime>
+
