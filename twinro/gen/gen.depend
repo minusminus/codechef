@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447414094 source:d:\projects\codechef\twinro\gen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445502081 source:d:\projects\codechef\luckycom\gen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

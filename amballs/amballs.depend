@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448450783 source:d:\projects\codechef\amballs\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+
